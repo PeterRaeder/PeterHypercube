@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -731,7 +731,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 5000
 --- !u!1 &37661356
 GameObject:
   m_ObjectHideFlags: 0
@@ -1725,7 +1725,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 500
 --- !u!1 &81940138
 GameObject:
   m_ObjectHideFlags: 0
@@ -10339,7 +10339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 5000
 --- !u!1 &698452593
 GameObject:
   m_ObjectHideFlags: 0
@@ -18540,7 +18540,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 5000
 --- !u!1 &1220762378
 GameObject:
   m_ObjectHideFlags: 0
@@ -19877,7 +19877,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 5000
 --- !u!1 &1310450363
 GameObject:
   m_ObjectHideFlags: 0
@@ -22299,7 +22299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 5000
 --- !u!1 &1445262595
 GameObject:
   m_ObjectHideFlags: 0
@@ -30118,7 +30118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f95c8909572c8644e8caf91d2698dd8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
+  speed: 5000
 --- !u!1 &1991388759
 GameObject:
   m_ObjectHideFlags: 0
